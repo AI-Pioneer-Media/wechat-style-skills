@@ -1,0 +1,3 @@
+# Preserve original source files byte for byte, including their line endings.
+originals/* -text
+originals/*.pdf binary

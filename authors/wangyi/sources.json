@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "collection": "王翊原文资料",
+  "author": "王翊",
+  "items": [
+    {
+      "id": "7501306456826711306",
+      "title": "普通人和大佬之间最大的差距就是表达系统",
+      "type": "video-transcript",
+      "path": "originals/普通人和大佬之间最大的差距就是表达系统_口播文案.md",
+      "source_url": "https://www.douyin.com/video/7501306456826711306",
+      "share_url": "https://v.douyin.com/Js8D0s7fimM/",
+      "duration_seconds": 391,
+      "collected_on": "2026-10-25",
+      "sha256": "c32a53eaf50423ca2db57247b4f791aa7489417278202907b83f1532104f93cb",
+      "bytes": 9269
+    },
+    {
+      "id": "7583187871721442595",
+      "title": "拆了200条爆款，我终于明白普通人如何玩流量！",
+      "type": "video-transcript",
+      "path": "originals/拆了200条爆款，我终于明白普通人如何玩流量！_口播文案.md",
+      "source_url": "https://www.douyin.com/video/7583187871721442595",
+      "share_url": "https://v.douyin.com/NuxmN0QKTGQ/",
+      "duration_seconds": 599,
+      "collected_on": "2026-10-25",
+      "sha256": "8e8537ac65eb59c6cb7e2ceb523eeaa0df3cf11c1f2562f7ecb616bf2dec1504",
+      "bytes": 13088
+    },
+    {
+      "id": "writing-core-techniques",
+      "title": "写作核心技法",
+      "type": "pdf",
+      "path": "originals/写作核心技法.pdf",
+      "source_description": "维护者提供的 PDF 原文件，按要求归入王翊栏目",
+      "collected_on": "2026-10-25",
+      "sha256": "a94f66b5cf0b012aff13ed9771e478efd9a686e69f8c6d85093a566671f99584",
+      "bytes": 3543754
+    }
+  ]
+}

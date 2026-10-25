@@ -21,5 +21,16 @@
       "path": "meme-native-hotspot",
       "description": "从真人遭遇与吐槽切入，写清热点机制或原生商业内容"
     }
+  ],
+  "collections": [
+    {
+      "name": "wangyi",
+      "title": "王翊原文资料",
+      "path": "authors/wangyi",
+      "type": "source-materials",
+      "description": "王翊的两篇完整口播文案与《写作核心技法》PDF，附来源索引。",
+      "item_count": 3,
+      "manifest": "authors/wangyi/sources.json"
+    }
   ]
 }
