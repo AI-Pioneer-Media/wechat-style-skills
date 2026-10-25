@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "wechat-style-analyzer",
+      "path": "wechat-style-analyzer",
+      "description": "从公众号样本中拆解稳定风格，生成风格画像或新的写作 Skill"
+    }
+  ]
+}

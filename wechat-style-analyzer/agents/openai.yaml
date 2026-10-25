@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号文风拆解器"
+  short_description: "从代表文章中提炼可复用、不过度仿写的公众号写作机制"
+  default_prompt: "Use $wechat-style-analyzer to analyze these WeChat articles and produce a reusable style profile for original writing."
