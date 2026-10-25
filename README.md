@@ -19,6 +19,8 @@ AI Pioneer 的公众号写作风格 Skill 仓库。
 | --- | --- |
 | `wechat-style-analyzer` | 从公众号样本中拆解稳定风格，生成风格画像或新的写作 Skill |
 | `firsthand-ai-analysis` | 用真实测试、成本与失败证据，把 AI 新闻写成有判断的公众号文章 |
+| `absurd-rigorous-explainer` | 用真实实验、计算与定义，把荒诞日常问题写成好看的科普文章 |
+| `meme-native-hotspot` | 从真人遭遇与吐槽切入，写清热点机制或原生商业内容 |
 
 ## 目录约定
 

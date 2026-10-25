@@ -10,6 +10,16 @@
       "name": "firsthand-ai-analysis",
       "path": "firsthand-ai-analysis",
       "description": "用真实测试、成本与失败证据，把 AI 新闻写成有判断的公众号文章"
+    },
+    {
+      "name": "absurd-rigorous-explainer",
+      "path": "absurd-rigorous-explainer",
+      "description": "用真实实验、计算与定义，把荒诞日常问题写成好看的科普文章"
+    },
+    {
+      "name": "meme-native-hotspot",
+      "path": "meme-native-hotspot",
+      "description": "从真人遭遇与吐槽切入，写清热点机制或原生商业内容"
     }
   ]
 }

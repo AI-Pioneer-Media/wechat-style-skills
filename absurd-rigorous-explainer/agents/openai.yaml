@@ -1,0 +1,4 @@
+interface:
+  display_name: "荒诞问题严谨推演"
+  short_description: "用真实实验和计算，把离谱日常问题写成好看的科普文章"
+  default_prompt: "Use $absurd-rigorous-explainer to investigate this odd everyday question with real definitions, evidence, and humor."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "热梗原生热点叙事"
+  short_description: "从真人遭遇和吐槽切入，写清热点、平台机制或原生商单"
+  default_prompt: "Use $meme-native-hotspot to turn this strange trend or product test into a conversational WeChat story with a real mechanism."

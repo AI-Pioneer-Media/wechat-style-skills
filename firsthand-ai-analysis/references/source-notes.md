@@ -60,3 +60,9 @@ Treat these figures as a secondary analysis of that dataset, not as platform-wid
 - High: first-person actions function as evidence; concrete anomalies lead; articles scale from test or mechanism to industry consequence; judgments arrive before exhaustive explanation.
 - Medium: typical paragraph length, meme frequency, and exact title patterns because mirrors may change formatting and the sample is small.
 - Low: traffic performance and conversion impact because comparable analytics are unavailable.
+
+## Forward test
+
+- Unseen prompt: turn real notes from a PPT-assistant test into an article: a 3,000-word proposal was uploaded; the generated deck preserved the main structure; one timeline split incorrectly; manual repair took 15 minutes.
+- Check: the method made the split timeline and cleanup time part of the verdict, did not turn every feature into a section, and rejected an unsupported claim that the tool “saved three hours.”
+- Result: pass. The draft plan remained evidence-led without copying sample wording.
