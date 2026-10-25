@@ -1,0 +1,4 @@
+interface:
+  display_name: "第一人称 AI 技术叙事"
+  short_description: "用亲测证据把 AI 新闻写成有人味、有判断的公众号文章"
+  default_prompt: "Use $firsthand-ai-analysis to turn this AI topic and my real testing notes into an evidence-led WeChat article."

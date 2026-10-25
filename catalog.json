@@ -5,6 +5,11 @@
       "name": "wechat-style-analyzer",
       "path": "wechat-style-analyzer",
       "description": "从公众号样本中拆解稳定风格，生成风格画像或新的写作 Skill"
+    },
+    {
+      "name": "firsthand-ai-analysis",
+      "path": "firsthand-ai-analysis",
+      "description": "用真实测试、成本与失败证据，把 AI 新闻写成有判断的公众号文章"
     }
   ]
 }
